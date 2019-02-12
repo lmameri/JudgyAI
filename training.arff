@@ -1,0 +1,45 @@
+@relation positifnegatif
+
+@attribute text string
+@attribute class {negatif,positif}
+
+@data
+'good',positif
+'very good',positif
+'bad',negatif
+'very bad',negatif
+'very bad, very bad',negatif
+'good good bad',positif
+'love',positif
+'excited',positif
+'like',positif
+'happy',positif
+'excitement',positif
+'best',positif
+'delicious',positif
+'hate',negatif
+'worst',negatif
+'laughing',positif
+'great',positif
+'smiling',positif
+'disappointed',negatif
+'sad',negatif
+'crying',negatif
+'heart_eyes',positif
+'stuck_out_tongue_winking_eye',positif
+'not good',negatif
+'not happy',negatif
+'would recommend',positif
+'cant wait',positif
+'facepalm',negatif
+'sadness',negatif
+'mad',negatif
+'angry',negatif
+'ugly',negatif
+'beautiful',positif
+'suck',negatif
+'excellent',positif
+'worth the wait',positif
+'unamused',negatif
+'upset',negatif
+'fake',negatif
