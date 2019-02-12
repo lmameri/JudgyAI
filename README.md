@@ -35,7 +35,7 @@ J'ai testé ce programme sur Windows 10 Pro Version 10.0.17134
 
 ## État du programme
 
- Le TP ne prend en compte qu’une cinquantaine de tweets (les derniers publiés). Il pourrait prendre plusieurs milliers, cependant on a un nombre limité de requête toutes les 15mins via l'API de twitter. J’ai préféré limiter à 50 tweets pour relancer plusieurs fois le programme sans avoir à attendre. 
+ Le TP ne prend en compte qu’une cinquantaine de tweets (les derniers publiés). Il pourrait prendre plusieurs milliers, cependant on a un nombre limité de requête toutes les 15mins via l'API de twitter. J’ai préféré limiter à 50 tweets pour relancer plusieurs fois le programme sans avoir à attendre. On classifie les tweets à l’aide du classifier de weka : Naive Bayes Mutinomial Text.
 
 
 
