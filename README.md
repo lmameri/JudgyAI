@@ -24,13 +24,13 @@ Voici un exemple d'utilisation en 3 étapes :
 J'ai testé ce programme sur Windows 10 Pro Version 10.0.17134
 
 ## Dépendances
-- [weka](https://www.cs.waikato.ac.nz/ml/index.html) ! Contient les algorithmes de Machine Learning et plus précisement le classifier  Naive Bayes Mutinomial Text
-- [twitter4j](http://twitter4j.org/en/) ! Exploite l'API de twitter pour extraire les tweets
-- [jackson](https://github.com/FasterXML/jackson) ! Traite les fichiers JSON (tweets, résultats, training)
-- [emoji4j](https://github.com/kcthota/emoji4j) ! Remplace les smileys dans les tweets par un adjectif les décrivant
-- [cglib-nodep](https://github.com/cglib/cglib/wiki) ! Utilisée par emoji4j
-- [harmcrest](http://hamcrest.org/JavaHamcrest/) ! Utilisée par emoji4j
-- [lambdaj](https://code.google.com/archive/p/lambdaj/) ! Utilisée par emoji4j
+- [weka](https://www.cs.waikato.ac.nz/ml/index.html) Contient les algorithmes de Machine Learning et plus précisement le classifier  Naive Bayes Mutinomial Text
+- [twitter4j](http://twitter4j.org/en/) Exploite l'API de twitter pour extraire les tweets
+- [jackson](https://github.com/FasterXML/jackson) Traite les fichiers JSON (tweets, résultats, training)
+- [emoji4j](https://github.com/kcthota/emoji4j) Remplace les smileys dans les tweets par un adjectif les décrivant
+- [cglib-nodep](https://github.com/cglib/cglib/wiki) Utilisée par emoji4j
+- [harmcrest](http://hamcrest.org/JavaHamcrest/) Utilisée par emoji4j
+- [lambdaj](https://code.google.com/archive/p/lambdaj/) Utilisée par emoji4j
 
 
 ## État du programme
