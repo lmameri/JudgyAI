@@ -10,13 +10,13 @@
 
 Voici un exemple d'utilisation en 3 étapes :
 
--Étape 1 : On lance le programme et on devrait avoir l'interface graphique suivante qui s'affiche 
+- Étape 1 : On lance le programme et on devrait avoir l'interface graphique suivante qui s'affiche 
 ![Etape 1](https://github.com/lmameri/JudgyAI/blob/master/step1.PNG)
 
--Étape 2 : On choisit notre hashtag, shopify dans le cas de cet exemple et on clique sur *Run*, le résultat global devrait s'afficher dans la fenêtre tel que ci-dessous
+- Étape 2 : On choisit notre hashtag, shopify dans le cas de cet exemple et on clique sur *Run*, le résultat global devrait s'afficher dans la fenêtre tel que ci-dessous
 ![Etape 2](https://github.com/lmameri/JudgyAI/blob/master/step2.PNG)
 
--Étape 3 : On peut consulter le fichier resultats.txt pour plus de détails; la polarité du tweet est spécifiée par 'positif' ou 'negatif'
+- Étape 3 : On peut consulter le fichier resultats.txt pour plus de détails; la polarité du tweet est spécifiée par 'positif' ou 'negatif'
 ![Etape 3](https://github.com/lmameri/JudgyAI/blob/master/step3.PNG)
 
 ## Plateformes supportées
@@ -24,19 +24,13 @@ Voici un exemple d'utilisation en 3 étapes :
 J'ai testé ce programme sur Windows 10 Pro Version 10.0.17134
 
 ## Dépendances
--[weka](https://www.cs.waikato.ac.nz/ml/index.html) ! Contient les algorithmes de Machine Learning et plus précisement le classifier  Naive Bayes Mutinomial Text
-
--[twitter4j](http://twitter4j.org/en/) ! Exploite l'API de twitter pour extraire les tweets
-
--[jackson](https://github.com/FasterXML/jackson) ! Traite les fichiers JSON (tweets, résultats, training)
-
--[emoji4j](https://github.com/kcthota/emoji4j) ! Remplace les smileys dans les tweets par un adjectif les décrivant
-
--[cglib-nodep](https://github.com/cglib/cglib/wiki) ! Utilisée par emoji4j
-
--[harmcrest](http://hamcrest.org/JavaHamcrest/) ! Utilisée par emoji4j
-
--[lambdaj](https://code.google.com/archive/p/lambdaj/) ! Utilisée par emoji4j
+- [weka](https://www.cs.waikato.ac.nz/ml/index.html) ! Contient les algorithmes de Machine Learning et plus précisement le classifier  Naive Bayes Mutinomial Text
+- [twitter4j](http://twitter4j.org/en/) ! Exploite l'API de twitter pour extraire les tweets
+- [jackson](https://github.com/FasterXML/jackson) ! Traite les fichiers JSON (tweets, résultats, training)
+- [emoji4j](https://github.com/kcthota/emoji4j) ! Remplace les smileys dans les tweets par un adjectif les décrivant
+- [cglib-nodep](https://github.com/cglib/cglib/wiki) ! Utilisée par emoji4j
+- [harmcrest](http://hamcrest.org/JavaHamcrest/) ! Utilisée par emoji4j
+- [lambdaj](https://code.google.com/archive/p/lambdaj/) ! Utilisée par emoji4j
 
 
 ## État du programme
