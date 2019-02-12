@@ -1,0 +1,2 @@
+# JudgyAI
+Tweet Analysis App. 
